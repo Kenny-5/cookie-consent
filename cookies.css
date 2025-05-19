@@ -125,7 +125,7 @@ main{
 
 .modal-choice-btns-reverse{
     flex-direction: row-reverse;
-    background-color: purple;
+    
 }
  
 .modal-btn{
