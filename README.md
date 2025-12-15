@@ -2,8 +2,6 @@
 
 ---
 
-##  Live Demo
-
  **Live Demo:** cookieconsent1.netlify.app
 ---
 
